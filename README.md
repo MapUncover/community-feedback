@@ -36,6 +36,6 @@ We're actively working on a new update that will bring feedback, feature request
 
 ## 📬 Contact
 
-Prefer not to use GitHub? Reach out directly at [team@mapuncover.com](mailto:team@mapuncover.com)
+Prefer not to use GitHub? Reach out directly at [contact@mapuncover.com](mailto:contact@mapuncover.com)
 
 Thanks for helping shape MapUncover. Every piece of feedback matters. 🙌
