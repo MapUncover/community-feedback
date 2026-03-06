@@ -1,8 +1,4 @@
 # MapUncover
-Explore the world.
-
----
-
 ## This Repo — Community Feedback Hub
 
 This GitHub repository is a temporary feedback hub while we build native feedback features directly into the app (coming soon!).
@@ -26,14 +22,29 @@ That's it! We read every submission.
 
 ---
 
-## What's Coming
-
-We're actively working on a new update that will bring feedback, feature requests, and more directly into the MapUncover app. This repo will be updated once that's live.
-
----
-
 ## Contact
 
 Prefer not to use GitHub? Reach out directly at [contact@mapuncover.com](mailto:contact@mapuncover.com)
 
 Thanks for helping shape MapUncover. Every piece of feedback matters. 🙌
+
+---
+
+## What's Coming
+
+We're actively working on a new update that will bring feedback, feature requests, and more directly into the MapUncover app. This repo will be updated once that's live.
+
+## Join the Preview Beta (New Map + New UI + New Features)
+
+We’re preparing a preview beta that introduces:
+
+- A **new map architecture** (faster, more flexible foundation, more informative)
+- An overall **updated UI + UX**
+- A new Achievement system
+- **Feature requests and issue reporting directly inside the app**
+
+MapUncover will remain **free to use**, and we’re building everything **privacy-first**.
+
+### How to join
+Email us to request access to upcoming previews:  
+[contact@mapuncover.com](mailto:contact@mapuncover.com)
